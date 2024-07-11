@@ -7,8 +7,8 @@ Forest Fire Area Prediction - Predicts the area affected by forest fires using m
 ## Project Structure
 The repository is organized as follows:
 
-- turbine_energy_prediction.ipynb: Script for predicting turbine energy yield.
-- forest_fire_prediction.ipynb: Script for predicting the area burned in forest fires.
+- NN Gas_turbine.ipynb: Script for predicting turbine energy yield.
+- NN forest_fire.ipynb: Script for predicting the area burned in forest fires.
 
 ## Data Description
 Turbine Energy Yield Prediction
